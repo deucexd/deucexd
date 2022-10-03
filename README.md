@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Emmanuel 
-- 👀 I’m interested in anything web dev and software engineering.
-- 🌱 I’m currently learning Info Tech 
-- 💞️ I’m looking to collaborate on projects to sharpen my dev skills. 
-- 📫 How to reach me ...
+- 👀 I’m interested in anything Information Security and software engineering.
+- 🌱 I’m currently learning Information Technology 
+- 💞️ I’m looking to collaborate on projects to sharpen my skills. 
+- 📫 How to reach me, email me at gemegahprince9@gmail.com
 
 <!---
 deucexd/deucexd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
